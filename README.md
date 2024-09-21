@@ -23,3 +23,6 @@ need to change whatsoever.
 screens: This folder will hold all screens of the application. IE the login page on initial launch.
 
 assets: This folder holds all imagery, video, etc simply stores things that make the application look pretty.
+
+## Acknowledgements
+Created by Ila Wallace, Jacob Jones, and Orlando Gomez
